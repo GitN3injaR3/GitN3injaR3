@@ -216,4 +216,3 @@ I am **Sagor Hossan**, a passionate developer from **Bangladesh**. I enjoy learn
 </p>
 ```
 
-The complete file is also attached as `GitN3injaR3-README.md`. Copy its contents into the `README.md` file of your profile repository. The 3D contribution graphic is included as a ready-to-use external image; if it does not render, use the alternative URL included directly below it.
